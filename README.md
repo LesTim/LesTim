@@ -1,6 +1,6 @@
 ### Header
 
-## I am a beginner tester
+## I am a beginner QA-engineer
 
 ### Languages and Tools
 
@@ -11,7 +11,9 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-0747a6?style=flat&logo=Confluence)
 ![Jira](https://img.shields.io/badge/-Jira-205081?style=flat&logo=Jira)
 
-Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=Gmail)](mailto:timofeewa.olesya15@gmail.com)
+
+[![LesTim's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesTim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
