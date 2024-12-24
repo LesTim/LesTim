@@ -1,6 +1,6 @@
 
 
-## I am a beginner QA-engineer
+## I am a QA-engineer
 
 ### Languages and Tools
 
