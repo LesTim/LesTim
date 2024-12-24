@@ -1,4 +1,4 @@
-![Header](https://github.com/LesTim/LesTim/blob/main/assets/header.png)
+
 
 ## I am a beginner QA-engineer
 
